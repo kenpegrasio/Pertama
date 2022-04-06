@@ -1,0 +1,2 @@
+# Pertama
+Repository Pertama
